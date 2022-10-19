@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michaelsimsoe" target="blank"><img src="https://img.shields.io/twitter/follow/michaelsimsoe?logo=twitter&style=for-the-badge" alt="michaelsimsoe" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
-
-- 📝 I regularly write articles on [michaelsimsoe.no](https://michaelsimsoe.no)
+- 📝 I sporadically write articles on [michaelsimsoe.no](https://michaelsimsoe.no)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
